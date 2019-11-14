@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Test Files" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="new page2">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newFile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poem2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassUnderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EvenNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HttpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HttpRequestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/decodeAndEncode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mockForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/M1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EvenNumberCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FileIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReadAndWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestClassUnderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/backstageManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/calculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/connectDataBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/decodeAndEncodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/mockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ClassUnderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ConnectDataBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/EvenNumberChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HttpRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HttpRequestUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/decodeAndEncode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mockForTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/EvenNumberCheckerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/FileIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ReadAndWrite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TestClassUnderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/backstageManger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/calculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/connectDataBaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/decodeAndEncodeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/mockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TestClass" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FileIO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="449" column="5" selection-start-line="449" selection-start-column="5" selection-end-line="449" selection-end-column="5" />
+              <folding>
+                <element signature="method#fileName#0;class#FileIO#0" />
+                <element signature="e#174#217#0" />
+                <element signature="e#408#457#1" />
+                <element signature="method#fileNameAndPath#0;class#FileIO#0" />
+                <element signature="e#1216#1238#0" />
+                <element signature="e#1551#1604#1" />
+                <element signature="e#1765#1814#1" />
+                <element signature="docComment;method#FileInputStreamTest#0;class#FileIO#0" />
+                <element signature="method#FileInputStreamTest#0;class#FileIO#0" />
+                <element signature="e#2222#2337#1" />
+                <element signature="method#FileOutputStreamTest#0;class#FileIO#0" />
+                <element signature="e#2701#2965#0" />
+                <element signature="e#2850#2955#1" />
+                <element signature="e#2990#3036#0" />
+                <element signature="method#FileReaderTest#0;class#FileIO#0" />
+                <element signature="e#3229#3574#0" />
+                <element signature="e#3437#3564#1" />
+                <element signature="e#3598#3643#0" />
+                <element signature="docComment;method#FileWriterTest#0;class#FileIO#0" />
+                <element signature="method#FileWriterTest#0;class#FileIO#0" />
+                <element signature="e#3801#4034#0" />
+                <element signature="e#4059#4105#0" />
+                <element signature="method#KeyinTest#0;class#FileIO#0" />
+                <element signature="e#4419#5142#0" />
+                <element signature="e#4600#5132#1" />
+                <element signature="e#4720#4775#1" />
+                <element signature="e#4971#5032#0" />
+                <element signature="e#5056#5118#0" />
+                <element signature="e#5183#5229#0" />
+                <element signature="method#PrintStreamTest#0;class#FileIO#0" />
+                <element signature="e#5437#5587#0" />
+                <element signature="e#5628#5674#0" />
+                <element signature="method#PushbackTest#0;class#FileIO#0" />
+                <element signature="e#5928#7281#0" />
+                <element signature="e#6150#7271#1" />
+                <element signature="e#6299#6324#0" />
+                <element signature="e#6478#7035#1" />
+                <element signature="e#6704#6780#1" />
+                <element signature="e#7073#7257#1" />
+                <element signature="e#7322#7368#0" />
+                <element signature="method#StringNodeTest#0;class#FileIO#0" />
+                <element signature="e#7781#7968#0" />
+                <element signature="e#7877#7958#1" />
+                <element signature="e#8009#8055#0" />
+                <element signature="e#8086#8129#0" />
+                <element signature="e#8240#8592#0" />
+                <element signature="e#8632#8677#0" />
+                <element signature="method#RedirectIn#0;class#FileIO#0" />
+                <element signature="e#8859#9270#0" />
+                <element signature="e#9159#9260#1" />
+                <element signature="e#9310#9355#0" />
+                <element signature="method#RedirectOut#0;class#FileIO#0" />
+                <element signature="e#9555#9769#0" />
+                <element signature="e#9809#9854#0" />
+                <element signature="method#ReadFromProcess#0;class#FileIO#0" />
+                <element signature="e#10023#10052#0" />
+                <element signature="e#10211#10380#0" />
+                <element signature="e#10325#10374#1" />
+                <element signature="method#AppendContent#0;class#FileIO#0" />
+                <element signature="e#10576#10706#0" />
+                <element signature="e#10746#10791#0" />
+                <element signature="method#insert#0;class#FileIO#0" />
+                <element signature="e#11285#11990#0" />
+                <element signature="e#11555#11650#1" />
+                <element signature="e#11663#11694#0" />
+                <element signature="e#11920#11980#1" />
+                <element signature="method#insertTest#0;class#FileIO#0" />
+                <element signature="method#RandomAccessFileTest#0;class#FileIO#0" />
+                <element signature="e#12686#12813#1" />
+                <element signature="e#12863#12908#0" />
+                <element signature="method#main#0;class#FileIO#0" />
+                <element signature="method#main#0;class#FileIO#0" />
+                <element signature="e#14349#14484#1" />
+                <element signature="method#main#0;class#FileIO#0" />
+                <element signature="e#15186#15247#1" />
+                <element signature="method#main#0;class#FileIO#0" />
+                <element signature="e#15440#16168#0" />
+                <element signature="e#16208#16253#0" />
+                <element signature="method#FileChannelTest#1;class#FileIO#0" />
+                <element signature="e#16686#17393#0" />
+                <element signature="e#17433#17478#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\TestClass\src\main\resources\pic</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ClassUnderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mockForTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestClassUnderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EvenNumberChecker.java" />
+        <option value="$PROJECT_DIR$/src/test/java/EvenNumberCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HttpRequest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/HttpRequestUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/backstageManger.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConnectDataBaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConnectDataBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/connectDataBaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/calculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReadAndWrite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/decodeAndEncode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/decodeAndEncodeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/decodeAndEncode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/out.txt" />
+        <option value="$PROJECT_DIR$/poem.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/FileIO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TestClass" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TestClass" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TestClass" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1853" />
+    <option name="y" value="126" />
+    <option name="width" value="1471" />
+    <option name="height" value="796" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestClass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestClass" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestClass" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TestClass\src\main\resources" />
+      <recent name="D:\TestClass\src\main\resources\pic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FileIO.FileChannel3Test3">
+    <configuration name="FileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileIO" />
+      <module name="TestClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileIO.CharsetTransform" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileIO" />
+      <option name="METHOD_NAME" value="CharsetTransform" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileIO.FileChannel3Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileIO" />
+      <option name="METHOD_NAME" value="FileChannel3Test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileIO.FileChannelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileIO" />
+      <option name="METHOD_NAME" value="FileChannelTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileIO.charsetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileIO" />
+      <option name="METHOD_NAME" value="charsetTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FileIO.FileChannel3Test3" />
+        <item itemvalue="JUnit.FileIO.FileChannelTest" />
+        <item itemvalue="JUnit.FileIO.CharsetTransform" />
+        <item itemvalue="Application.FileIO" />
+        <item itemvalue="JUnit.FileIO.charsetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="" />
+      <created>1571707231575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571707231575</updated>
+      <workItem from="1571707235057" duration="37820000" />
+      <workItem from="1571968453539" duration="597000" />
+      <workItem from="1571971565243" duration="2199000" />
+      <workItem from="1571974865756" duration="16055000" />
+      <workItem from="1572225564321" duration="50114000" />
+      <workItem from="1572832723614" duration="3334000" />
+      <workItem from="1572853014589" duration="5331000" />
+      <workItem from="1573003717227" duration="426000" />
+      <workItem from="1573004180887" duration="58500000" />
+    </task>
+    <task id="LOCAL-00001" summary="new page">
+      <created>1571813672078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571813672078</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new page">
+      <created>1571814261460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571814261460</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new page2">
+      <created>1571815457109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571815457109</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FileIO_RandomAccessFileTest - 2019.11.13 at 10h 35m 43s.xml">
+      <configuration name="FileIO.RandomAccessFileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileIO_BufferTest - 2019.11.13 at 11h 00m 11s.xml">
+      <configuration name="FileIO.BufferTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileIO_charsetTest - 2019.11.13 at 11h 07m 12s.xml">
+      <configuration name="FileIO.charsetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileIO_CharsetTransform - 2019.11.13 at 11h 13m 17s.xml">
+      <configuration name="FileIO.CharsetTransform" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileIO_FileChannelTest - 2019.11.13 at 11h 19m 12s.xml">
+      <configuration name="FileIO.FileChannelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileIO_FileChannelTest - 2019.11.13 at 11h 20m 31s.xml">
+      <configuration name="FileIO.FileChannelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileIO_FileChannelTest - 2019.11.13 at 11h 21m 20s.xml">
+      <configuration name="FileIO.FileChannelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileIO_FileChannelTest - 2019.11.13 at 11h 22m 01s.xml">
+      <configuration name="FileIO.FileChannelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileIO_FileChannelTest - 2019.11.13 at 11h 22m 48s.xml">
+      <configuration name="FileIO.FileChannelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileIO_FileChannel3Test3 - 2019.11.14 at 12h 03m 36s.xml">
+      <configuration name="FileIO.FileChannel3Test3" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="174376000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1853" y="126" width="1471" height="796" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993046" visible="true" weight="0.27498227" />
+      <window_info id="Structure" order="1" sideWeight="0.50142044" side_tool="true" weight="0.3192458" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5006954" side_tool="true" weight="0.3155527" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32859176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48200312" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39829606" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962447" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32962447" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32868022" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32707354" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31849793" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.39717224" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3288448" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new page" />
+    <MESSAGE value="new page2" />
+    <option name="LAST_COMMIT_MESSAGE" value="new page2" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.m2/m2_reposity_dev/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/requests/FilterRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/junit-fixture/junit-fixture/test/com/itranswarp/learnjava/CalculatorTest.java" />
+    <entry file="jar://$USER_HOME$/.m2/m2_reposity_dev/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestClass.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/m2_reposity_dev/net/sf/json-lib/json-lib/2.4/json-lib-2.4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="99" column="17" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="24" />
+          <folding>
+            <element signature="e#2871#2872#0" expanded="true" />
+            <element signature="e#2896#2897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/net/DualStackPlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="85" column="17" lean-forward="true" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/net/HttpURLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="311" column="28" selection-start-line="311" selection-start-column="28" selection-end-line="311" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/word" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/pic/sun" />
+    <entry file="jar://$USER_HOME$/.m2/m2_reposity_dev/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/m2_reposity_dev/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/notification/Failure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/m2_reposity_dev/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/EachTestNotifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/m2_reposity_dev/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HttpRequestUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConnectDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EvenNumberChecker.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/net/URLEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="199" column="52" selection-start-line="199" selection-start-column="49" selection-end-line="199" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="346" column="29" lean-forward="true" selection-start-line="346" selection-start-column="29" selection-end-line="346" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Javastudy/codes/15/15.1/FilenameFilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="1307" column="19" selection-start-line="1307" selection-start-column="19" selection-end-line="1307" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestClassUnderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReadAndWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="method#readTest#0;class#ReadAndWrite#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/connectDataBaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testInserSql#0;class#connectDataBaseTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1573183558757">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="543" column="11" selection-start-line="543" selection-start-column="11" selection-end-line="543" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newFile.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/M1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mockForTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/decodeAndEncode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poem2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClassUnderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/decodeAndEncodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getRandomIndexData#0;class#calculatorTest#0" />
+            <element signature="method#generateRandomIndex#0;class#calculatorTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/backstageManger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="293" column="49" lean-forward="true" selection-start-line="293" selection-start-column="49" selection-end-line="293" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EvenNumberCheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InsertContent.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Javastudy/codes/15/15.9/CharsetTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/SortedMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="242" column="11" selection-start-line="242" selection-start-column="11" selection-end-line="242" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Javastudy/codes/15/15.8/FilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="341" column="19" selection-start-line="341" selection-start-column="19" selection-end-line="341" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poem.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newFile.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FileIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="449" column="5" selection-start-line="449" selection-start-column="5" selection-end-line="449" selection-end-column="5" />
+          <folding>
+            <element signature="method#fileName#0;class#FileIO#0" />
+            <element signature="e#174#217#0" />
+            <element signature="e#408#457#1" />
+            <element signature="method#fileNameAndPath#0;class#FileIO#0" />
+            <element signature="e#1216#1238#0" />
+            <element signature="e#1551#1604#1" />
+            <element signature="e#1765#1814#1" />
+            <element signature="docComment;method#FileInputStreamTest#0;class#FileIO#0" />
+            <element signature="method#FileInputStreamTest#0;class#FileIO#0" />
+            <element signature="e#2222#2337#1" />
+            <element signature="method#FileOutputStreamTest#0;class#FileIO#0" />
+            <element signature="e#2701#2965#0" />
+            <element signature="e#2850#2955#1" />
+            <element signature="e#2990#3036#0" />
+            <element signature="method#FileReaderTest#0;class#FileIO#0" />
+            <element signature="e#3229#3574#0" />
+            <element signature="e#3437#3564#1" />
+            <element signature="e#3598#3643#0" />
+            <element signature="docComment;method#FileWriterTest#0;class#FileIO#0" />
+            <element signature="method#FileWriterTest#0;class#FileIO#0" />
+            <element signature="e#3801#4034#0" />
+            <element signature="e#4059#4105#0" />
+            <element signature="method#KeyinTest#0;class#FileIO#0" />
+            <element signature="e#4419#5142#0" />
+            <element signature="e#4600#5132#1" />
+            <element signature="e#4720#4775#1" />
+            <element signature="e#4971#5032#0" />
+            <element signature="e#5056#5118#0" />
+            <element signature="e#5183#5229#0" />
+            <element signature="method#PrintStreamTest#0;class#FileIO#0" />
+            <element signature="e#5437#5587#0" />
+            <element signature="e#5628#5674#0" />
+            <element signature="method#PushbackTest#0;class#FileIO#0" />
+            <element signature="e#5928#7281#0" />
+            <element signature="e#6150#7271#1" />
+            <element signature="e#6299#6324#0" />
+            <element signature="e#6478#7035#1" />
+            <element signature="e#6704#6780#1" />
+            <element signature="e#7073#7257#1" />
+            <element signature="e#7322#7368#0" />
+            <element signature="method#StringNodeTest#0;class#FileIO#0" />
+            <element signature="e#7781#7968#0" />
+            <element signature="e#7877#7958#1" />
+            <element signature="e#8009#8055#0" />
+            <element signature="e#8086#8129#0" />
+            <element signature="e#8240#8592#0" />
+            <element signature="e#8632#8677#0" />
+            <element signature="method#RedirectIn#0;class#FileIO#0" />
+            <element signature="e#8859#9270#0" />
+            <element signature="e#9159#9260#1" />
+            <element signature="e#9310#9355#0" />
+            <element signature="method#RedirectOut#0;class#FileIO#0" />
+            <element signature="e#9555#9769#0" />
+            <element signature="e#9809#9854#0" />
+            <element signature="method#ReadFromProcess#0;class#FileIO#0" />
+            <element signature="e#10023#10052#0" />
+            <element signature="e#10211#10380#0" />
+            <element signature="e#10325#10374#1" />
+            <element signature="method#AppendContent#0;class#FileIO#0" />
+            <element signature="e#10576#10706#0" />
+            <element signature="e#10746#10791#0" />
+            <element signature="method#insert#0;class#FileIO#0" />
+            <element signature="e#11285#11990#0" />
+            <element signature="e#11555#11650#1" />
+            <element signature="e#11663#11694#0" />
+            <element signature="e#11920#11980#1" />
+            <element signature="method#insertTest#0;class#FileIO#0" />
+            <element signature="method#RandomAccessFileTest#0;class#FileIO#0" />
+            <element signature="e#12686#12813#1" />
+            <element signature="e#12863#12908#0" />
+            <element signature="method#main#0;class#FileIO#0" />
+            <element signature="method#main#0;class#FileIO#0" />
+            <element signature="e#14349#14484#1" />
+            <element signature="method#main#0;class#FileIO#0" />
+            <element signature="e#15186#15247#1" />
+            <element signature="method#main#0;class#FileIO#0" />
+            <element signature="e#15440#16168#0" />
+            <element signature="e#16208#16253#0" />
+            <element signature="method#FileChannelTest#1;class#FileIO#0" />
+            <element signature="e#16686#17393#0" />
+            <element signature="e#17433#17478#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TestClass</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
