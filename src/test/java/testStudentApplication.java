@@ -24,6 +24,13 @@ public class testStudentApplication {
         //将 Mock 对象切换到 Replay 状态
         EasyMock.replay(student);
         //调用 Mock 对象方法进行单元测试
+
+//        application=new StudentApplication(student);
+//        System.out.println(application.getStudent());
+//        String getStr=application.doMethod();
+
+
+
         StudentApplication application=new StudentApplication(student);
         System.out.println("Print: "+ application.getStudent().toString());
         String getStr=application.doMethod();
