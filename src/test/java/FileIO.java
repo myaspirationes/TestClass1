@@ -511,5 +511,54 @@ public class FileIO {
         }
     }
 
+    /**
+     * 写入内容
+     */
+    @Test
+    public   void writeInFile()  {
+        try {
+            BufferedWriter out = new BufferedWriter(new FileWriter("runoob.txt"));
+            out.write("菜鸟教程");
+            out.close();
+            System.out.println("文件创建成功！");
+        } catch (IOException e) {
+        }
+    }
+/**
+ * 读取内容
+ */
+    @Test
+    public   void readContent( )  {
+        try {
+            BufferedReader in = new BufferedReader(new FileReader("src\\main\\resources\\redStar.txt"));
+            String str;
+            while ((str = in.readLine()) != null) {
+                System.out.println(str);
+            }
+            System.out.println(str);
+        } catch (IOException e) {
+        }
+    }
+
+    /**
+     * 删除文件
+     */
+    @Test
+    public   void deleteFile( ){
+        {
+            try{
+                File file = new File("c:\\test.txt");
+                if(file.delete()){
+                    System.out.println(file.getName() + " 文件已被删除！");
+                }else{
+                    System.out.println("文件删除失败！");
+                }
+            }catch(Exception e){
+                e.printStackTrace();
+            }
+        }
+    }
+
+
 
 }

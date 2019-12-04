@@ -30,31 +30,41 @@ public class ReadFileInResource {
     @Test
     public void readTextFileInResource() throws IOException {
         String filePath = this.getClass().getClassLoader().getResource("redStar.txt").getPath();
-        File file=new File(filePath);
+        File file = new File(filePath);
         InputStream inputStream = new FileInputStream(file);
         int availble = inputStream.available();
         byte[] bytes = new byte[availble];
         inputStream.read(bytes);
-        //inputStream.close();
-
-        String str =new String(bytes, StandardCharsets.UTF_8);
-        System.out.println(str);
-        OutputStream outputStream = null;
-        outputStream = new FileOutputStream(new File("C:\\Users\\EDZ\\Desktop\\hell.txt"));
-        outputStream.write(bytes);
-        outputStream.flush();
-
-        char c;
-        BufferedReader br = new BufferedReader(new InputStreamReader(inputStream));
-        do {
-             c = (char) br.read();
-            System.out.println(c);
-        } while ( c != 'q');
         inputStream.close();
 
+        ByteArrayInputStream bInput = new ByteArrayInputStream(bytes);
+        int c;
+        System.out.println("Converting characters to Upper case ");
+        for (int y = 0; y < 1; y++) {
+            while ((c = bInput.read()) != -1) {
+                System.out.println((char)c);
+            }
+            bInput.reset();
+
+            ByteArrayOutputStream bArray = new ByteArrayOutputStream(availble);
+            byte b[] = bArray.toByteArray();
+            System.out.println("Print the content");
+            for (int x = 0; x < b.length; x++) {
+                // 打印字符
+                System.out.println((char) b[x] + " @@@@  ");
+            }
+
+            String str = new String(bytes, StandardCharsets.UTF_8);
+            System.out.println(str);
+            OutputStream outputStream = null;
+            outputStream = new FileOutputStream(new File("C:\\Users\\EDZ\\Desktop\\hell.txt"));
+            outputStream.write(bytes);
+            outputStream.flush();
+
+
+        }
+
     }
-
-
     }
 
 
