@@ -34,7 +34,7 @@ public class calculatorTest  {
 
     @Test
     public void testprint(){
-        System.out.println("TEST JENKINS HOLBK");
+        System.out.println("TEST haha JENKINS HOLBK");
     }
 
 

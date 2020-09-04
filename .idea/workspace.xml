@@ -5,15 +5,8 @@
     <option name="CUSTOM_SCOPE_NAME" value="Project Test Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="add IStudent class">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/test/java/calculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HttpRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpRequestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HttpRequestUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FileIO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FileIO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/calculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/calculatorTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -195,7 +188,7 @@
       <workItem from="1574911085644" duration="597000" />
       <workItem from="1575006951136" duration="607000" />
       <workItem from="1575281701964" duration="5839000" />
-      <workItem from="1599127405592" duration="2203000" />
+      <workItem from="1599127405592" duration="2525000" />
     </task>
     <task id="LOCAL-00001" summary="new page">
       <created>1571813672078</created>
@@ -267,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574236567134</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add IStudent class">
+      <created>1599207703432</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599207703432</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
