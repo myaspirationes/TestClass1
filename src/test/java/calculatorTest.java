@@ -32,6 +32,10 @@ public class calculatorTest  {
         Assert.assertEquals(-130, this.calculator.sub(-20));
     }
 
+    @Test
+    public void testprint(){
+        System.out.println("TEST JENKINS HOLBK");
+    }
 
 
     @Test
