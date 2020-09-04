@@ -5,9 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Project Test Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/calculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calculatorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +186,7 @@
       <workItem from="1574911085644" duration="597000" />
       <workItem from="1575006951136" duration="607000" />
       <workItem from="1575281701964" duration="5839000" />
-      <workItem from="1599127405592" duration="3161000" />
+      <workItem from="1599127405592" duration="3408000" />
     </task>
     <task id="LOCAL-00001" summary="new page">
       <created>1571813672078</created>
@@ -274,7 +272,35 @@
       <option name="project" value="LOCAL" />
       <updated>1599207996770</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add IStudent class">
+      <created>1599208808370</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1599208808370</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add IStudent class">
+      <created>1599208915190</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1599208915190</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add IStudent class">
+      <created>1599208973420</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1599208973420</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add IStudent class">
+      <created>1599209037087</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1599209037087</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
