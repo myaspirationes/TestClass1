@@ -188,7 +188,7 @@
       <workItem from="1574911085644" duration="597000" />
       <workItem from="1575006951136" duration="607000" />
       <workItem from="1575281701964" duration="5839000" />
-      <workItem from="1599127405592" duration="2525000" />
+      <workItem from="1599127405592" duration="3161000" />
     </task>
     <task id="LOCAL-00001" summary="new page">
       <created>1571813672078</created>
@@ -267,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599207703432</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add IStudent class">
+      <created>1599207996770</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599207996770</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
