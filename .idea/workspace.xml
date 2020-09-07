@@ -5,7 +5,16 @@
     <option name="CUSTOM_SCOPE_NAME" value="Project Test Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="" />
+    <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/calculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/calculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/calculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/calculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/mockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/mockTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +48,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>D:\TestClass\src\main\resources\pic</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -102,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.backstageManger.selectFormObjectByID">
+  <component name="RunManager" selected="JUnit.calculatorTest.getRandomIndexData">
     <configuration name="ReadAndWrite.readTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestClass" />
       <option name="PACKAGE_NAME" value="" />
@@ -123,21 +127,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClassUnderTest.testCallPrivateMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestClass" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestClassUnderTest" />
-      <option name="METHOD_NAME" value="testCallPrivateMethod" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="backstageManger.selectFormObjectByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestClass1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="backstageManger" />
       <option name="METHOD_NAME" value="selectFormObjectByID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculatorTest.getRandomIndexData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest" />
+      <option name="METHOD_NAME" value="getRandomIndexData" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.calculatorTest.getRandomIndexData" />
         <item itemvalue="JUnit.backstageManger.selectFormObjectByID" />
         <item itemvalue="JUnit.ReadFileInResource.readFileInResource" />
         <item itemvalue="JUnit.ReadAndWrite.readTest" />
         <item itemvalue="JUnit.testStudentApplication.testdoMethod" />
-        <item itemvalue="JUnit.TestClassUnderTest.testCallPrivateMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +191,7 @@
       <workItem from="1575006951136" duration="607000" />
       <workItem from="1575281701964" duration="5839000" />
       <workItem from="1599127405592" duration="4403000" />
-      <workItem from="1599445150370" duration="884000" />
+      <workItem from="1599445150370" duration="3851000" />
     </task>
     <task id="LOCAL-00001" summary="new page">
       <created>1571813672078</created>
@@ -315,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599445810754</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add IStudent class">
+      <created>1599446229524</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1599446229524</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">

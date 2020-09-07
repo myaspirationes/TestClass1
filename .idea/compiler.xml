@@ -11,4 +11,9 @@
       </profile>
     </annotationProcessing>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="TestClass1" options="-bootclasspath &quot;C:/Program Files/Java/jdk1.8.0_91/jre\lib\rt.jar;C:/Program Files/Java/jdk1.8.0_91/jre\lib\jce.jar&quot; -Xlint:deprecation" />
+    </option>
+  </component>
 </project>

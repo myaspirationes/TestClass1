@@ -1,6 +1,7 @@
 import java.util.*;
 import java.util.List;
 
+import net.bytebuddy.agent.ByteBuddyAgent;
 import org.junit.*;
 
 public class calculatorTest  {
@@ -37,8 +38,8 @@ public class calculatorTest  {
         System.out.println("TEST JENKINS HOLBK");
     }
 
-
-    @Test
+    @Ignore
+    @Test()
     public void getRandomIndexData(){
         Scanner in = new Scanner(System.in);
         System.out.println("需要抽取的个数：");

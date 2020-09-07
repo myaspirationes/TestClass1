@@ -100,7 +100,7 @@ public class mockTest {
         assertEquals(1, list.get(1));
         assertEquals(1, list.get(999));
         assertTrue(list.contains(1));
-        assertTrue(!list.contains(1));
+        //assertTrue(!list.contains(1));
     }
 
     @Test
