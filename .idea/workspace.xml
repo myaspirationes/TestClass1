@@ -6,14 +6,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConnectDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConnectDataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ReadFileInResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ReadFileInResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/connectDataBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/connectDataBaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ConnectDataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ConnectDataBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-09-07T11-05-15_104.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-09-07T11-06-18_489.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/EvenNumberCheckerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/EvenNumberCheckerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-EvenNumberCheckerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-EvenNumberCheckerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-calculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-calculatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-connectDataBaseTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-connectDataBaseTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-decodeAndEncodeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-decodeAndEncodeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-mockTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-mockTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/calculatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/calculatorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/connectDataBaseTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/connectDataBaseTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/decodeAndEncodeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/decodeAndEncodeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/mockTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/mockTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ReadFileInResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ReadFileInResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ScannerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ScannerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/connectDataBaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/connectDataBaseTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="44" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -55,7 +79,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -77,7 +101,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -100,52 +124,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.calculatorTest.getRandomIndexData">
-    <configuration name="ReadAndWrite.readTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestClass" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReadAndWrite" />
-      <option name="METHOD_NAME" value="readTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadFileInResource.readFileInResource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestClass" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReadFileInResource" />
-      <option name="METHOD_NAME" value="readFileInResource" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="backstageManger.selectFormObjectByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.calculatorTest">
+    <configuration name="ReadFileInResource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestClass1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="backstageManger" />
-      <option name="METHOD_NAME" value="selectFormObjectByID" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="ReadFileInResource" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculatorTest.getRandomIndexData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="calculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestClass1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="calculatorTest" />
-      <option name="METHOD_NAME" value="getRandomIndexData" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="connectDataBaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="connectDataBaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="connectDataBaseTest.testUpdateSql" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="connectDataBaseTest" />
+      <option name="METHOD_NAME" value="testUpdateSql" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testStudentApplication.testdoMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestClass" />
+    <configuration name="connectDataBaseTest.testdeleteSql" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testStudentApplication" />
-      <option name="METHOD_NAME" value="testdoMethod" />
+      <option name="MAIN_CLASS_NAME" value="connectDataBaseTest" />
+      <option name="METHOD_NAME" value="testdeleteSql" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.calculatorTest.getRandomIndexData" />
-        <item itemvalue="JUnit.backstageManger.selectFormObjectByID" />
-        <item itemvalue="JUnit.ReadFileInResource.readFileInResource" />
-        <item itemvalue="JUnit.ReadAndWrite.readTest" />
-        <item itemvalue="JUnit.testStudentApplication.testdoMethod" />
+        <item itemvalue="JUnit.calculatorTest" />
+        <item itemvalue="JUnit.connectDataBaseTest.testUpdateSql" />
+        <item itemvalue="JUnit.connectDataBaseTest" />
+        <item itemvalue="JUnit.connectDataBaseTest.testdeleteSql" />
+        <item itemvalue="JUnit.ReadFileInResource" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +206,9 @@
       <workItem from="1575006951136" duration="607000" />
       <workItem from="1575281701964" duration="5839000" />
       <workItem from="1599127405592" duration="4403000" />
-      <workItem from="1599445150370" duration="5047000" />
+      <workItem from="1599445150370" duration="16004000" />
+      <workItem from="1599549995800" duration="1266000" />
+      <workItem from="1599634247335" duration="579000" />
     </task>
     <task id="LOCAL-00001" summary="new page">
       <created>1571813672078</created>
@@ -334,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599458181103</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add IStudent class">
+      <created>1599460087131</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1599460087131</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -379,5 +409,9 @@
     <MESSAGE value="add one test case" />
     <MESSAGE value="add IStudent class" />
     <option name="LAST_COMMIT_MESSAGE" value="add IStudent class" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestClass1$ReadFileInResource.ic" NAME="ReadFileInResource Coverage Results" MODIFIED="1599531786108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestClass1$connectDataBaseTest.ic" NAME="connectDataBaseTest Coverage Results" MODIFIED="1599536163725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

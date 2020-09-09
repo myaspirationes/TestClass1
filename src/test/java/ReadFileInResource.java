@@ -21,7 +21,7 @@ public class ReadFileInResource {
             int available = inputStream.available();//这个方法可以在读写操作前先得知数据流里有多少个字节可以读取
             byte[] bytes = new byte[available];
             inputStream.read(bytes, 0, available);//在数组的第一个位置写入availble个字节到数组bytes中
-            outputStream = new FileOutputStream(new File("C:\\Users\\EDZ\\Desktop\\hell.docx"));
+            outputStream = new FileOutputStream(new File("C:\\Users\\Administrator\\Desktop\\PWDAndTelephone.txt"));
             outputStream.write(bytes);
             outputStream.flush();
         }
@@ -57,7 +57,7 @@ public class ReadFileInResource {
             String str = new String(bytes, StandardCharsets.UTF_8);
             System.out.println(str);
             OutputStream outputStream = null;
-            outputStream = new FileOutputStream(new File("C:\\Users\\EDZ\\Desktop\\hell.txt"));
+            outputStream = new FileOutputStream(new File("C:\\Users\\Administrator\\Desktop\\PWDAndTelephone.txt"));
             outputStream.write(bytes);
             outputStream.flush();
 

@@ -10,7 +10,7 @@ public class connectDataBaseTest {
  @Test
     public void testUpdateSql() {
         //String sql="delete FROM feikongbao_provisioning.`user` WHERE account = 'YODOO_TEST_24'";
-        String sql = "update  user set name='ssssss' WHERE account='test_wang_1';";
+        String sql = "update  user set username='ssssss' WHERE id=1;";
         //String sql2="select * from user";
         try {
             ConnectDataBase.updateMethond(sql);
@@ -24,7 +24,7 @@ public class connectDataBaseTest {
     @Test
     public void testInserSql() {
         //String sql="delete FROM feikongbao_provisioning.`user` WHERE account = 'YODOO_TEST_24'";
-        String sql = "insert into  feikongbao_provisioning.user(account,name,password,sex,status,created_by,last_modified_by) value('test_wang_1','xiaom','123456','0','1','13','13');";
+        String sql = "insert into  mysql_test.user(account,name,password,sex,status,created_by,last_modified_by) value('test_wang_1','xiaom','123456','0','1','13','13');";
         //String sql2="select * from user";
         try {
             ConnectDataBase.insertMethond(sql);
@@ -44,7 +44,7 @@ public class connectDataBaseTest {
         Class.forName("com.mysql.jdbc.Driver");
         //创建连接
         Connection conn = DriverManager.getConnection
-                ("jdbc:mysql://dev.feikongbao.cn:3306/feikongbao_provisioning?useSSL=FALSE&serverTimezone=UTC", "yodoo", "yodoo123");
+                ("jdbc:mysql://192.168.1.20:3306/mysql_test?useSSL=FALSE&serverTimezone=UTC", "root", "123456");
         //得到执行sql语句的Statement对象
         Statement stmt = conn.createStatement();
         //执行sql语句，并返回结果
@@ -72,7 +72,7 @@ public class connectDataBaseTest {
     @Test
     public void testdeleteSql() {
         //String sql="delete FROM feikongbao_provisioning.`user` WHERE account = 'YODOO_TEST_24'";
-        String sql = "DELETE FROM feikongbao_provisioning.user WHERE account='hellp';";
+        String sql = "DELETE FROM mysql_test.user WHERE account='hellp';";
         //String sql2="select * from user";
         try {
             ConnectDataBase.deleteMethond(sql);
@@ -86,7 +86,7 @@ public class connectDataBaseTest {
     @Test
     public void testSelectMethond() {
         //String sql="delete FROM feikongbao_provisioning.`user` WHERE account = 'YODOO_TEST_24'";
-        String sql = "SELECT * FROM feikongbao_provisioning.`user` WHERE account LIKE 'YODOO%'";
+        String sql = "SELECT * FROM mysql_test.`user` WHERE account LIKE 'YODOO%'";
         String sql2 = "select * from user";
         try {
             ConnectDataBase.selectMethond(sql, sql2);

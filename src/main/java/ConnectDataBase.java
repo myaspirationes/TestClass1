@@ -7,11 +7,11 @@ import java.sql.Statement;
 public class ConnectDataBase {
     //JDBC驱动名以及数据库URL
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql://dev.feikongbao.cn:3306/feikongbao_provisioning";
+    static final String DB_URL = "jdbc:mysql://192.168.1.20:3306/mysql_test";
 
     //数据库的用户名与密码
-    static final String USER = "yodoo";
-    static final String PASSWORD = "yodoo123";
+    static final String USER = "root";
+    static final String PASSWORD = "123456";
 
 
     /**
@@ -23,7 +23,7 @@ public class ConnectDataBase {
         Class.forName("com.mysql.jdbc.Driver");
         //创建连接
         Connection conn = DriverManager.getConnection
-                ("jdbc:mysql://dev.feikongbao.cn:3306/feikongbao_provisioning?useSSL=FALSE&serverTimezone=UTC", "yodoo", "yodoo123");
+                ("jdbc:mysql://192.168.1.20:3306/mysql_test?useSSL=FALSE&serverTimezone=UTC", "root", "123456");
         //得到执行sql语句的Statement对象
         Statement stmt = conn.createStatement();
         //执行sql语句，并返回结果
@@ -60,7 +60,7 @@ public class ConnectDataBase {
         //Class.forName("com.mysql.jdbc.Driver");
         try {
             Connection conn = DriverManager.getConnection
-                    ("jdbc:mysql://dev.feikongbao.cn:3306/feikongbao_provisioning?useSSL=FALSE&serverTimezone=UTC", "yodoo", "yodoo123");
+                    ("jdbc:mysql://192.168.1.20:3306/mysql_test?useSSL=FALSE&serverTimezone=UTC", "root", "123456");
             //得到执行sql语句的Statement对象
             Statement stmt = conn.createStatement();
             //执行sql语句，并返受到影响的行数
@@ -86,7 +86,7 @@ public class ConnectDataBase {
     public static void insertMethond(String insertSql) throws Exception {
         try {
             Connection conn = DriverManager.getConnection
-                    ("jdbc:mysql://dev.feikongbao.cn:3306/feikongbao_provisioning?useSSL=FALSE&serverTimezone=UTC", "yodoo", "yodoo123");
+                    ("jdbc:mysql://192.168.1.20:3306/mysql_test?useSSL=FALSE&serverTimezone=UTC", "123456", "123456");
             //得到执行sql语句的Statement对象
             Statement stmt = conn.createStatement();
             //执行sql语句，并返受到影响的行数
@@ -113,7 +113,7 @@ public class ConnectDataBase {
     public static void updateMethond(String updateSql) throws Exception {
         try {
             Connection conn = DriverManager.getConnection
-                    ("jdbc:mysql://dev.feikongbao.cn:3306/feikongbao_provisioning?useSSL=FALSE&serverTimezone=UTC", "yodoo", "yodoo123");
+                    ("jdbc:mysql://192.168.1.20:3306/mysql_test?useSSL=FALSE&serverTimezone=UTC", "root", "123456");
             //得到执行sql语句的Statement对象
             Statement stmt = conn.createStatement();
             //执行sql语句，并返受到影响的行数

@@ -1,3 +1,4 @@
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.util.Scanner;
@@ -7,6 +8,8 @@ public class ScannerTest {
      *在读取前我们一般需要 使用 hasNext 与 hasNextLine 判断是否还有输入的数据;
      * 遇到空格，next() 方法会自动将其后输入去掉
      */
+
+    @Ignore
     @Test
     public  void scanNext() {
         Scanner scan = new Scanner(System.in);
@@ -27,6 +30,8 @@ public class ScannerTest {
      * 遇到enter后才结束输入；
      * 在输入之前最好先使用 hasNextXxx() 方法进行验证，再使用 nextXxx() 来读取。
      */
+
+    @Ignore
     @Test
     public  void scanNextLine(){
         Scanner scan = new Scanner(System.in);
