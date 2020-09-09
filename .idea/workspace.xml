@@ -5,62 +5,10 @@
     <option name="CUSTOM_SCOPE_NAME" value="Project Test Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="">
+    <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="add IStudent class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClassUnderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ConnectDataBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/EvenNumberChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/HttpRequestUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/decodeAndEncode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mockForTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestClass.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/EvenNumberCheckerTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-EvenNumberCheckerTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-calculatorTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-connectDataBaseTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-decodeAndEncodeTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-mockTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/calculatorTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/connectDataBaseTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/decodeAndEncodeTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/mockTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Animals$Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Animals$Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Animals$TestDog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Animals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/EvenNumberCheckerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FileIO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FirstThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/IStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ReadAndWrite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ReadFileInResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/RunnableDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Salary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ScannerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StudentApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestClassUnderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TesterOfConllections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/backstageManger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/calculatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/connectDataBaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/decodeAndEncodeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/extentAndImplements$Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/extentAndImplements$Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/extentAndImplements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/mockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/secondThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tempForTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testStudentApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/threadStd.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +72,7 @@
   <component name="ProjectId" id="1gzpiOqzWVVxwWWbg8I33ZmRBzh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -240,7 +189,7 @@
       <workItem from="1599127405592" duration="4403000" />
       <workItem from="1599445150370" duration="16004000" />
       <workItem from="1599549995800" duration="1266000" />
-      <workItem from="1599634247335" duration="1383000" />
+      <workItem from="1599634247335" duration="2310000" />
     </task>
     <task id="LOCAL-00001" summary="new page">
       <created>1571813672078</created>
@@ -403,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599634960023</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add IStudent class">
+      <created>1599635659512</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1599635659512</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView">
