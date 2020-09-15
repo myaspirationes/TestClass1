@@ -223,7 +223,20 @@ public class mockTest {
     }
 
 
+    public static void main(String[] args) {
+        //最大值
+        int max = Integer.MAX_VALUE;
+        //最小值
+        int min = Integer.MIN_VALUE;
 
+        System.out.println(max);
+        System.out.println(min);
+
+        //最大值+1
+        System.out.println(max + 1);
+        //最小值-1
+        System.out.println(min - 1);
+    }
 
 
 }

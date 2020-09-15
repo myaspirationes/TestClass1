@@ -6,9 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6d5d0e6-71be-4561-9357-5c589c38c940" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jenkinsSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mockTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +57,28 @@
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="myaspirationes" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="TestClass" />
   </component>
+  <component name="Jenkins.Settings">
+    <option name="connectionTimeout" value="5" />
+    <option name="crumbData" value="fe766f2612f90fe2aba7ca79f7957cc2bc9cb3659ecd27edea7a99b3474042b0" />
+    <option name="jenkinsVersion" value="VERSION_2" />
+    <option name="lastSelectedView" value="all" />
+    <option name="username" value="root" />
+  </component>
+  <component name="JenkinsBrowserPanel">
+    <treeState>
+      <expand>
+        <path>
+          <item name="http://192.168.1.20:8080/" type="8dc21761:JenkinsTreeNode$RootNode" />
+        </path>
+      </expand>
+      <select>
+        <path>
+          <item name="http://192.168.1.20:8080/" type="8dc21761:JenkinsTreeNode$RootNode" />
+          <item name="http://192.168.1.20:8080/job/testForMaven/" type="a425e03d:JenkinsTreeNode$JobNode" />
+        </path>
+      </select>
+    </treeState>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -84,7 +107,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -107,12 +130,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.calculatorTest">
-    <configuration name="ReadFileInResource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.mockTest">
+    <configuration name="ScannerTest.scanNext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestClass1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReadFileInResource" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="ScannerTest" />
+      <option name="METHOD_NAME" value="scanNext" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClassUnderTest.testCallPrivateMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestClassUnderTest" />
+      <option name="METHOD_NAME" value="testCallPrivateMethod" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,42 +160,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="connectDataBaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="calculatorTest.getRandomIndexData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestClass1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="connectDataBaseTest" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest" />
+      <option name="METHOD_NAME" value="getRandomIndexData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestClass1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="mockTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="connectDataBaseTest.testUpdateSql" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestClass1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="connectDataBaseTest" />
-      <option name="METHOD_NAME" value="testUpdateSql" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="connectDataBaseTest.testdeleteSql" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestClass1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="connectDataBaseTest" />
-      <option name="METHOD_NAME" value="testdeleteSql" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.mockTest" />
+        <item itemvalue="JUnit.ScannerTest.scanNext" />
+        <item itemvalue="JUnit.TestClassUnderTest.testCallPrivateMethod" />
         <item itemvalue="JUnit.calculatorTest" />
-        <item itemvalue="JUnit.connectDataBaseTest.testUpdateSql" />
-        <item itemvalue="JUnit.connectDataBaseTest" />
-        <item itemvalue="JUnit.connectDataBaseTest.testdeleteSql" />
-        <item itemvalue="JUnit.ReadFileInResource" />
+        <item itemvalue="JUnit.calculatorTest.getRandomIndexData" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +216,9 @@
       <workItem from="1599445150370" duration="16004000" />
       <workItem from="1599549995800" duration="1266000" />
       <workItem from="1599634247335" duration="5370000" />
-      <workItem from="1599716049551" duration="7508000" />
+      <workItem from="1599716049551" duration="7965000" />
+      <workItem from="1600047997961" duration="11379000" />
+      <workItem from="1600152692792" duration="2680000" />
     </task>
     <task id="LOCAL-00001" summary="new page">
       <created>1571813672078</created>
@@ -369,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599636727081</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add IStudent class">
+      <created>1599729872432</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1599729872433</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView">
